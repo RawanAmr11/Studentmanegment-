@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\controllers\\studentscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|c:\\users\\rawan.amr\\documents\\web\\extension methods\\first mvc\\studentmanagement\\studentmanagement\\migrations\\20260315113218_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD70594B-44E3-4513-B63E-76EBE7D4F254}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\migrations\\20260315113218_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController1.cs",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Controllers\\StudentsController1.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentsController1.cs",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Controllers\\StudentsController1.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentsController1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswE8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:50:00.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:02:35.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T10:10:53.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T08:27:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-15T11:11:06.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:19:38.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T08:25:55.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260315113218_Init.cs",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Migrations\\20260315113218_Init.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Migrations\\20260315113218_Init.cs",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Migrations\\20260315113218_Init.cs",
+              "RelativeToolTip": "StudentManagement\\Migrations\\20260315113218_Init.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:32:18.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Courses.cs",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Models\\Courses.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T10:13:43.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Models\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\rawan.amr\\Documents\\Web\\Extension methods\\First MVC\\StudentManagement\\StudentManagement\\Models\\StudentProfile.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\StudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T10:12:24.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
